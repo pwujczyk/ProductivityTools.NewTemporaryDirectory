@@ -27,9 +27,9 @@
   </PropertyGroup>
   <ItemGroup />
   <ItemGroup>
+    <Compile Include="Runner.ps1" />
     <Compile Include="ProductivityTools.NewTemporaryDirectory.psd1" />
     <Compile Include="ProductivityTools.NewTemporaryDirectory.psm1" />
-    <Compile Include="ProductivityTools.NewTemporaryDirectory.tests.ps1" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Target Name="Build" />
