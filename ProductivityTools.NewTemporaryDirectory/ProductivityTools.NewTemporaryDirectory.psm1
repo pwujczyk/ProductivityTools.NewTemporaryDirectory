@@ -1,6 +1,3 @@
-<#
-	My Function
-#>
 function New-TemporaryDirectory {
 	$parent = [System.IO.Path]::GetTempPath()
     [string] $name = [System.Guid]::NewGuid()
