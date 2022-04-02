@@ -10,4 +10,9 @@
 </p>
 
 
-# ProductivityTools.NewTemporaryDirectory
+# New-TemporaryDirectory
+
+Module creates new directory in the temp folder.
+<!--more-->
+
+![Directory](Images/Directory.png)
