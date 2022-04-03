@@ -15,4 +15,6 @@
 Module creates new directory in the temp folder.
 <!--more-->
 
+It uses guid as name of the directory.
+
 ![Directory](Images/Directory.png)
